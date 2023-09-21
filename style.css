@@ -1,6 +1,6 @@
-body {
-    background-color: rgb(44, 44, 44);   
-  }
+body{
+    background-color: rgb(51, 28, 8);
+}
 .main{
     display: flex;
     flex-direction: column;
@@ -15,7 +15,7 @@ body {
     color: white;
     font-size: x-small;
 }
-.P:hover{
+button:hover{
     color: rgb(255, 103, 48);
 }
 .pic{
@@ -35,6 +35,10 @@ img{
     margin-bottom: 30px;
     display: block;
 }
+.profile-img {
+    height: 100px;
+    border-radius: 50%;
+  }
 
 
 
